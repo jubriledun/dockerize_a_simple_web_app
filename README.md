@@ -23,6 +23,10 @@ Follow instructions on Docker Documentation https://docs.docker.com/engine/insta
 ### Confirm built image
 ![image](https://github.com/user-attachments/assets/d5ce3bfb-23bc-4396-a0b6-11e8183a0b06) <br>
 
+### Run docker container from the image
+![image](https://github.com/user-attachments/assets/fc47bfe3-ffc1-461f-af61-c8acaf823073) <br>
+
+
 
 
 
