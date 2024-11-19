@@ -1,5 +1,5 @@
 # dockerize_a_simple_web_app
-In this simple hands on, we'll dockerize a simple web application and push the image to docker hub <br>
+In this simple hands on, we'll dockerize a simple web application using a docker engine on EC2 <br>
 
 
 ### Install Docker Engine on EC2
