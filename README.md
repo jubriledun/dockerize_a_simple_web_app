@@ -7,7 +7,7 @@ In this simple hands on, we'll dockerize a simple web application and push the i
 
 Follow instructions on Docker Documentation https://docs.docker.com/engine/install/ubuntu/ <br>
 
-Add ubuntu user to docker group and confirm successful installation of docker engine <br> 
+### Add ubuntu user to docker group and confirm successful installation of docker engine 
 ![image](https://github.com/user-attachments/assets/d6459831-2e62-4098-9c5e-4c2a5ddd1391) <br>
 
 
@@ -19,6 +19,10 @@ Add ubuntu user to docker group and confirm successful installation of docker en
 
 ### Build the image
 ![image](https://github.com/user-attachments/assets/96442f6b-2e75-4d58-84fa-1fe38e7d659e) <br>
+
+### Confirm built image
+![image](https://github.com/user-attachments/assets/d5ce3bfb-23bc-4396-a0b6-11e8183a0b06) <br>
+
 
 
 
