@@ -11,3 +11,8 @@ Add ubuntu user to docker group and confirm successful installation of docker en
 ![image](https://github.com/user-attachments/assets/d6459831-2e62-4098-9c5e-4c2a5ddd1391) <br>
 
 
+### Download the web application
+![image](https://github.com/user-attachments/assets/dfdc6805-0571-4450-8a85-fd792164e293) <br>
+
+
+
