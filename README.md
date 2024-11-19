@@ -15,6 +15,8 @@ Add ubuntu user to docker group and confirm successful installation of docker en
 ![image](https://github.com/user-attachments/assets/ab1a9c74-18c0-42e5-a54c-d35758397631) <br>
 
 ### Write the Dockerfile
+![image](https://github.com/user-attachments/assets/9e812c7b-d30b-4ad9-a66e-7cdd80909ffd) <br>
+
 
 
 
