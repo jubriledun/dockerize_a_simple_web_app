@@ -29,6 +29,10 @@ Follow instructions on Docker Documentation https://docs.docker.com/engine/insta
 ### Allow port 9080 on EC2 security group
 ![image](https://github.com/user-attachments/assets/7a91fd9b-7ffb-4e9e-8db8-584719cbe5a1) <br>
 
+### Confirm the web app
+![image](https://github.com/user-attachments/assets/086df4be-e2b5-4d0e-bcbe-e9eab6dbcb56) <br>
+
+
 
 
 
